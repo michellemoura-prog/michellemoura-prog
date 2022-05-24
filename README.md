@@ -1,6 +1,10 @@
 <h1 align="center">Olá! Seja muito bem vindo(a) ao meu repositório.</h1>
 
 <div align="center">
+  <img height="120" width="120" src="https://user-images.githubusercontent.com/102036330/169928698-a331cb74-fb3f-4a58-998c-0e9a4ea8a55a.png">
+</div>
+
+<div align="center">
   <a href="https://github.com/michellemoura-prog">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michellemoura-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellemoura-prog&layout=compact&langs_count=7&theme=dracula"/>
